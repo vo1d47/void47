@@ -10,9 +10,9 @@ if (session_status() == PHP_SESSION_NONE) {
 
 $GLOBALS["config"] = array(
     "mysql" => array(
-       'host'=>'phpmyfrost.tk',
+         'host'=>'localhost',
         'username'=>'root',
-        'password'=>'rrjrdr1233A!',
+        'password'=>'',
         'db'=>'chat'
     ),
     "remember"=> array(
