@@ -10,7 +10,7 @@ if (session_status() == PHP_SESSION_NONE) {
 
 $GLOBALS["config"] = array(
     "mysql" => array(
-       'host'=>'phpmyfrost.tk/phpmyadmin',
+       'host'=>'phpmyfrost.tk',
         'username'=>'root',
         'password'=>'rrjrdr1233A!',
         'db'=>'chat'
@@ -32,8 +32,8 @@ $GLOBALS["config"] = array(
         )
     ),
     "root"=> array(
-        'path'=>'https://void47.tk/',
-        'project_name'=>""
+        'path'=>'http://127.0.0.1/Vo1d47/',
+        'project_name'=>"Vo1d47"
     )
 );
 
