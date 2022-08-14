@@ -29,6 +29,6 @@ $GLOBALS["config"] = array(
         )
     ),
     "root"=> array(
-        'path'=>'http://127.0.0.1/Vo1d47/'
+        'path'=>'https://void47.pages.dev/',
     )
 );
